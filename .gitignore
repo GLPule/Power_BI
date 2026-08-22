@@ -1,0 +1,5 @@
+# Large dataset
+financial_transaction_fraud_analysis/data/transactions.csv
+
+# Large Power BI files
+financial_transaction_fraud_analysis/dashboard/Financial_Transactions_Dashboard.pbix
